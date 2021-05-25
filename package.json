@@ -1,7 +1,7 @@
 {
-  "name": "bwlauncher",
+  "name": "scuffedbetalauncher",
   "version": "1.0.0",
-  "description": "Launcher for Blocksworld 2",
+  "description": "Scuffed Development beta Launcher",
   "main": "main.js",
   "scripts": {
     "start": "electron-forge start",
@@ -10,10 +10,10 @@
   },
   "keywords": [
     "launcher",
-    "blocksworld",
-    "bw2"
+    "scuffed",
+    "bhop"
   ],
-  "author": "zenith391",
+  "author": "Dennisonung",
   "license": "MIT",
   "devDependencies": {
     "@electron-forge/cli": "^6.0.0-beta.54",
